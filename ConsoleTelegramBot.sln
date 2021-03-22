@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTelegramBot", "ConsoleTelegramBot\ConsoleTelegramBot.csproj", "{767FDFA4-79AA-4F78-AC33-F3CE6757BB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTelegramBot", "WorkTelegramBot\WorkTelegramBot.csproj", "{D4E3E7BC-0A98-4498-A50B-E62CD56B5BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767FDFA4-79AA-4F78-AC33-F3CE6757BB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767FDFA4-79AA-4F78-AC33-F3CE6757BB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767FDFA4-79AA-4F78-AC33-F3CE6757BB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767FDFA4-79AA-4F78-AC33-F3CE6757BB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E3E7BC-0A98-4498-A50B-E62CD56B5BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E3E7BC-0A98-4498-A50B-E62CD56B5BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E3E7BC-0A98-4498-A50B-E62CD56B5BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E3E7BC-0A98-4498-A50B-E62CD56B5BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC7C84C-6AED-4431-92CE-DA9604509331}
+	EndGlobalSection
+EndGlobal
