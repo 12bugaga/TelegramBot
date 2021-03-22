@@ -1,0 +1,1 @@
+Console telegram bot for getting the currency rate to UAH
